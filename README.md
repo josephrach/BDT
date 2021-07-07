@@ -1,8 +1,3 @@
-# BDT
-Custom Cloth Web Services
+# YABUKI PROJECT
 
-its develope like obviously online marketplace in world wide 
-
-the contributor are hoped to fix the issue
-
-at all we use a very low cost to build it up
+This is non-profit organization for unparenting child and poor community
